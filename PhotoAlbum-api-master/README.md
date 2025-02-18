@@ -1,4 +1,4 @@
-#PhotoAlbum
+COMPANY:CODETECH IT SOLUTIONS NAME:ADITI KODANDE INTERN ID:::CT08OGN DOMAIN: Software Development BATCH DURATION:m January 20th, 2025 to February 20th, 2022 MENTOR NAME:NEELA SANTOSH#PhotoAlbum
 
 ##About
 This is an example RESTful API written in Java and Spring Framework. This project is intended to be a demonstration of how a REST API can be structured and designed using Spring Boot/Actuator and Spring Data.
